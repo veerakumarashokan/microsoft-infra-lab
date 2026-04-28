@@ -1,45 +1,39 @@
-# Labs
+# Windows Networking
 
-This section contains practical hands-on labs related to Microsoft infrastructure, Windows networking, troubleshooting, and cloud environments.
+This folder focuses on networking concepts, configuration, and troubleshooting within a Windows environment.
 
-The labs focus on real-world scenarios designed to build operational understanding and problem-solving skills.
+It covers how networking is implemented and managed on Windows systems, with emphasis on practical usage and real-world scenarios.
 
 ---
 
 ## Purpose
 
-- Develop practical troubleshooting abilities  
-- Understand Windows-based networking and infrastructure concepts  
-- Simulate real-world technical scenarios  
-- Build confidence through hands-on practice  
+- Understand how networking works in Windows operating systems  
+- Practice common network troubleshooting tasks  
+- Learn tools and commands used in Windows networking  
+- Build practical, job-oriented networking knowledge  
 
 ---
 
-## Topics Covered
+## Structure
 
-Examples of labs include:
+- `basics` → Core networking concepts and commands in Windows  
+- `troubleshooting` → Real-world network issue scenarios and fixes  
+- `services` → Windows-based network services such as DHCP and DNS  
 
-- IP configuration issues  
-- DNS resolution failures  
-- Network adapter troubleshooting  
-- Windows networking diagnostics  
-- Azure networking and infrastructure scenarios  
+---
+
+## Focus Areas
+
+- IP configuration and network settings  
+- Connectivity testing and diagnostics  
+- DNS and name resolution  
+- Common network issues and troubleshooting steps  
 
 ---
 
 ## Approach
 
-Each lab follows a structured process:
+This section emphasizes practical understanding and real-world problem solving using Windows tools and environments.
 
-1. Identify the scenario  
-2. Reproduce the issue or configuration  
-3. Diagnose the problem step-by-step  
-4. Apply the fix or solution  
-5. Verify functionality  
-6. Document findings and key takeaways  
-
----
-
-## Goal
-
-To build practical infrastructure and troubleshooting skills aligned with real enterprise environments.
+Each lab or example is designed to reflect scenarios encountered in day-to-day IT and networking roles.
