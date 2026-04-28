@@ -1,25 +1,17 @@
-# Windows Networking
+# Labs
 
-This folder focuses on networking concepts, configuration, and troubleshooting within a Windows environment.
+This section contains practical hands-on labs focused on Microsoft infrastructure, Windows networking, troubleshooting, and real-world operational scenarios.
 
-It covers how networking is implemented and managed on Windows systems, with emphasis on practical usage and real-world scenarios.
+The labs are designed to build practical understanding of how networking and infrastructure components work within Windows-based enterprise environments.
 
 ---
 
 ## Purpose
 
-- Understand how networking works in Windows operating systems  
-- Practice common network troubleshooting tasks  
-- Learn tools and commands used in Windows networking  
-- Build practical, job-oriented networking knowledge  
-
----
-
-## Structure
-
-- `basics` → Core networking concepts and commands in Windows  
-- `troubleshooting` → Real-world network issue scenarios and fixes  
-- `services` → Windows-based network services such as DHCP and DNS  
+- Develop practical troubleshooting skills in Windows environments  
+- Understand networking concepts through hands-on implementation  
+- Learn how to diagnose and resolve real-world infrastructure issues  
+- Build operational confidence using Windows networking tools and workflows  
 
 ---
 
@@ -27,13 +19,34 @@ It covers how networking is implemented and managed on Windows systems, with emp
 
 - IP configuration and network settings  
 - Connectivity testing and diagnostics  
-- DNS and name resolution  
-- Common network issues and troubleshooting steps  
+- DNS configuration and name resolution  
+- Network adapter troubleshooting  
+- Windows networking tools and commands  
+- Infrastructure-related troubleshooting scenarios  
+
+---
+
+## Structure
+
+- `basics/` → Core networking concepts and Windows networking commands  
+- `troubleshooting/` → Real-world issue simulation and troubleshooting labs  
+- `services/` → Windows-based networking services such as DHCP and DNS  
 
 ---
 
 ## Approach
 
-This section emphasizes practical understanding and real-world problem solving using Windows tools and environments.
+Each lab follows a structured practical workflow:
 
-Each lab or example is designed to reflect scenarios encountered in day-to-day IT and networking roles.
+1. Identify the scenario or issue  
+2. Reproduce the configuration or problem  
+3. Diagnose the issue step-by-step  
+4. Apply the appropriate fix or solution  
+5. Verify functionality and connectivity  
+6. Document findings, observations, and key takeaways  
+
+---
+
+## Goal
+
+To build strong practical foundations in Microsoft infrastructure and Windows networking through structured hands-on labs and troubleshooting exercises aligned with real enterprise environments.
